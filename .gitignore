@@ -1,0 +1,3 @@
+__pycache__/
+*.log
+*.csvgit add main.py .gitignore
