@@ -28,7 +28,7 @@ RedactIQ is a Python-based utility that detects and redacts sensitive data (Pers
 ---
 
 ## 📂 Project Structure
-'''
+```
 RedactIQ/
 │
 ├── main.py
@@ -37,7 +37,7 @@ RedactIQ/
 ├── sample.log
 ├── redacted.log
 └── risk_report.csv
-'''
+```
 ---
 
 ## ▶️ How to Run
