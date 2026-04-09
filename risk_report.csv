@@ -1,0 +1,8 @@
+Metric,Value
+Detected EMAILs,1
+Detected PHONEs,1
+Detected CREDIT_CARDs,1
+Detected IPV4s,3
+Total Risk Score,13
+Final Risk Level,MEDIUM
+Most Frequent IP,None
